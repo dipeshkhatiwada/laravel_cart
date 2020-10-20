@@ -1,0 +1,4 @@
+https://packagist.org/packages/gloudemans/shoppingcart
+https://laracasts.com/discuss/channels/laravel/best-shopping-cart-plugin-for-laravel-57?page=0
+https://stackoverflow.com/questions/62935195/how-to-update-cart-in-one-function-using-gloudemans-shoppingcart-in-laravel
+https://github.com/Crinsane/LaravelShoppingcart/issues/613
